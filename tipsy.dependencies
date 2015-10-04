@@ -1,18 +1,18 @@
 [
   {
-    "repository": "CyanogenMod/android_device_sony_common",
+    "repository": "TEAM-RAZOR-DEVICES/device_sony_common",
     "target_path": "device/sony/common",
-    "revision": "cm-12.1"
+    "revision": "lp5.1"
   },
   {
-    "repository": "CyanogenMod/android_kernel_sony_msm8x27",
+    "repository": "TEAM-RAZOR-DEVICES/kernel_sony_msm8x27",
     "target_path": "kernel/sony/msm8x27",
-    "revision": "cm-12.1"
+    "revision": "lp5.1"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_sony",
+    "repository": "TEAM-RAZOR-DEVICES/proprietary_vendor_sony",
     "target_path": "vendor/sony",
-    "revision": "cm-12.1"
+    "revision": "lp5.1"
   },
   {
     "repository": "SlimRoms/android_external_mm-dash",
